@@ -10,7 +10,7 @@ before_install:
 
 saddons:
   sonarcloud:
-  organization: stojkovm-github
+  organization: "stojkovm-github"
   token: $SONAR_TOKEN
 
 script:
