@@ -1,5 +1,5 @@
 [![Build Status](https://travis-ci.com/stojkovm/isa-deployment-2020.svg?branch=main)](https://travis-ci.com/stojkovm/isa-deployment-2020)
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-white.svg)](https://sonarcloud.io/dashboard?id=stojkovm_isa-deployment-2020)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=stojkovm_isa-deployment-2020&metric=alert_status)](https://sonarcloud.io/dashboard?id=stojkovm_isa-deployment-2020)
 
 Uputstvo za povezivanje Spring Boot projekta sa GitHuba sa SonarCloud, TravisCI i Heroku servisima.
 Ovo je okvirno uputstvo koje možda neće svima odraditi posao.
